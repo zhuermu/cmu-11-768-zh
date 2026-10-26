@@ -12,9 +12,9 @@ CMU 2026 秋季新课 [11-768 AI Agents](https://cmu-agents.com)（Graham Neubig
 
 | 讲 | 主题 | 课件 | 幻灯片 | 视频 |
 |---|---|---|---|---|
-| 1 | Agent 到底是什么？它是怎么工作的 | [课件](./l01-what-is-an-agent/) | [PDF](./l01-what-is-an-agent/l01-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木 |
-| 2 | 工具调用：模型怎么和世界打交道 | [课件](./l02-tool-use/) | [PDF](./l02-tool-use/l02-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木 |
-| 3 | 长上下文：历史越来越长，agent 怎么继续干活 | [课件](./l03-long-context/) | [PDF](./l03-long-context/l03-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木 |
+| 1 | Agent 到底是什么？它是怎么工作的 | [课件](./l01-what-is-an-agent/) | [PDF](./l01-what-is-an-agent/l01-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 2 | 工具调用：模型怎么和世界打交道 | [课件](./l02-tool-use/) | [PDF](./l02-tool-use/l02-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 3 | 长上下文：历史越来越长，agent 怎么继续干活 | [课件](./l03-long-context/) | [PDF](./l03-long-context/l03-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 
 ## 短视频切片对应的幻灯片页
 
