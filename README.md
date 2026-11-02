@@ -19,6 +19,7 @@ CMU 2026 秋季新课 [11-768 AI Agents](https://cmu-agents.com)（Graham Neubig
 | 5 | 规划、任务拆解和多 agent 协作 | [课件](./l05-planning/) | [PDF](./l05-planning/l05-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 6 | 编程 agent：从补全代码到做软件工程 | [课件](./l06-coding-agents/) | [PDF](./l06-coding-agents/l06-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 7 | 电脑操作 agent：怎么评测、怎么建模、怎么训练 | [课件](./l07-computer-use/) | [PDF](./l07-computer-use/l07-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 8 | agent 的监督微调：把录下的轨迹变成模型权重 | [课件](./l08-sft/) | [PDF](./l08-sft/l08-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 
 ## 短视频切片对应的幻灯片页
 
