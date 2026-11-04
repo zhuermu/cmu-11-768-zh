@@ -22,6 +22,7 @@ CMU 2026 秋季新课 [11-768 AI Agents](https://cmu-agents.com)（Graham Neubig
 | 8 | agent 的监督微调：把录下的轨迹变成模型权重 | [课件](./l08-sft/) | [PDF](./l08-sft/l08-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 9 | 强化学习基础：从监督微调到策略梯度 | [课件](./l09-rl-basics/) | [PDF](./l09-rl-basics/l09-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 10 | 深度研究 agent：任务、基准和方法 | [课件](./l10-deep-research/) | [PDF](./l10-deep-research/l10-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 11 | 强化学习进阶算法：信用分配、稳定更新和可靠的奖励 | [课件](./l11-rl-advanced/) | [PDF](./l11-rl-advanced/l11-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 
 ## 短视频切片对应的幻灯片页
 
