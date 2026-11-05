@@ -24,6 +24,7 @@ CMU 2026 秋季新课 [11-768 AI Agents](https://cmu-agents.com)（Graham Neubig
 | 10 | 深度研究 agent：任务、基准和方法 | [课件](./l10-deep-research/) | [PDF](./l10-deep-research/l10-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 11 | 强化学习进阶算法：信用分配、稳定更新和可靠的奖励 | [课件](./l11-rl-advanced/) | [PDF](./l11-rl-advanced/l11-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 12 | 强化学习系统：训 agent 的工程坑 | [课件](./l12-rl-systems/) | [PDF](./l12-rl-systems/l12-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 13 | Agent 安全：沙箱、凭证和监控 | [课件](./l13-agent-safety/) | [PDF](./l13-agent-safety/l13-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 
 ## 短视频切片对应的幻灯片页
 
