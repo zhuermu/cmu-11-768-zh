@@ -25,6 +25,7 @@ CMU 2026 秋季新课 [11-768 AI Agents](https://cmu-agents.com)（Graham Neubig
 | 11 | 强化学习进阶算法：信用分配、稳定更新和可靠的奖励 | [课件](./l11-rl-advanced/) | [PDF](./l11-rl-advanced/l11-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 12 | 强化学习系统：训 agent 的工程坑 | [课件](./l12-rl-systems/) | [PDF](./l12-rl-systems/l12-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 13 | Agent 安全：沙箱、凭证和监控 | [课件](./l13-agent-safety/) | [PDF](./l13-agent-safety/l13-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 作业 1 | 从零搭一个 Agent Harness：CMU 作业 1 实战 | [课件](./a1-agent-harness/) | [PDF](./a1-agent-harness/a01-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 
 ## 短视频切片对应的幻灯片页
 
@@ -60,6 +61,10 @@ CMU 2026 秋季新课 [11-768 AI Agents](https://cmu-agents.com)（Graham Neubig
 | 5-c4 | 让 agent 多想一会儿？想得越多，解决的越少 | 第 5 讲 第 26 页 |
 | 5-c5 | 模型越大，越容易被自己的错误带偏 | 第 5 讲 第 29、31、32 页 |
 | 5-c6 | agent 跑了 202 步，最后还是硬选一家下了单 | 第 5 讲 第 2 页 |
+| a1-c1 | 开了上下文压缩，总 token 反而更多 | 作业 1 第 24 页 |
+| a1-c2 | 沙箱到期后 agent 空转 155 步 | 作业 1 第 35、36 页 |
+| a1-c3 | 上下文里 92% 是模型自己的推理 | 作业 1 第 37 页 |
+| a1-c4 | 给了合法着法列表，模型还是把马当兵走 | 作业 1 第 33、34 页 |
 
 ## 说明
 
