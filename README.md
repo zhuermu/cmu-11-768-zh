@@ -26,6 +26,7 @@ CMU 2026 秋季新课 [11-768 AI Agents](https://cmu-agents.com)（Graham Neubig
 | 12 | 强化学习系统：训 agent 的工程坑 | [课件](./l12-rl-systems/) | [PDF](./l12-rl-systems/l12-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 13 | Agent 安全：沙箱、凭证和监控 | [课件](./l13-agent-safety/) | [PDF](./l13-agent-safety/l13-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 作业 1 | 从零搭一个 Agent Harness：CMU 作业 1 实战 | [课件](./a1-agent-harness/) | [PDF](./a1-agent-harness/a01-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 14 | OpenHands：拆解一个开源编程 agent | [课件](./l14-openhands/) | [PDF](./l14-openhands/l14-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 
 ## 短视频切片对应的幻灯片页
 
