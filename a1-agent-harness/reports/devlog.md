@@ -1,6 +1,6 @@
 # A1 Agent Harness 开发日志（公开版）
 
-> 去掉了本机路径、代理配置和第二个对比模型的接入细节；第二个模型统一写作"另一个模型"。不含答案代码。
+> 去掉了本机路径、代理配置和第二个对比模型（gpt-6.1-sol）的接入细节。不含答案代码。
 
 作业仓库：https://github.com/cmu-agents/assignment-1 （commit 67498d8，chess_app 4aaabca）
 本地代码：a1-agent-harness
