@@ -25,8 +25,8 @@ CMU 2026 秋季新课 [11-768 AI Agents](https://cmu-agents.com)（Graham Neubig
 | 11 | 强化学习进阶算法：信用分配、稳定更新和可靠的奖励 | [课件](./l11-rl-advanced/) | [PDF](./l11-rl-advanced/l11-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 12 | 强化学习系统：训 agent 的工程坑 | [课件](./l12-rl-systems/) | [PDF](./l12-rl-systems/l12-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 13 | Agent 安全：沙箱、凭证和监控 | [课件](./l13-agent-safety/) | [PDF](./l13-agent-safety/l13-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
-| 作业 1 | 从零搭一个 Agent Harness：CMU 作业 1 实战 | [课件](./a1-agent-harness/) | [PDF](./a1-agent-harness/a01-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 14 | OpenHands：拆解一个开源编程 agent | [课件](./l14-openhands/) | [PDF](./l14-openhands/l14-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 作业 1 | 从零搭一个 Agent Harness：CMU 作业 1 实战 | [课件](./a1-agent-harness/) | [PDF](./a1-agent-harness/a01-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 作业 2 | 卡耐基梅隆大学Agent 作业 2：Agent 评测全记录 | [课件](./a2-dataviz-validator/) | [PDF](./a2-dataviz-validator/a02-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 
 ## 短视频切片对应的幻灯片页
