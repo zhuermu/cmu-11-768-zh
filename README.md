@@ -27,6 +27,7 @@ CMU 2026 秋季新课 [11-768 AI Agents](https://cmu-agents.com)（Graham Neubig
 | 13 | Agent 安全：沙箱、凭证和监控 | [课件](./l13-agent-safety/) | [PDF](./l13-agent-safety/l13-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 作业 1 | 从零搭一个 Agent Harness：CMU 作业 1 实战 | [课件](./a1-agent-harness/) | [PDF](./a1-agent-harness/a01-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 14 | OpenHands：拆解一个开源编程 agent | [课件](./l14-openhands/) | [PDF](./l14-openhands/l14-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 作业 2 | 卡耐基梅隆大学Agent 作业 2：Agent 评测全记录 | [课件](./a2-dataviz-validator/) | [PDF](./a2-dataviz-validator/a02-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 
 ## 短视频切片对应的幻灯片页
 
@@ -66,6 +67,10 @@ CMU 2026 秋季新课 [11-768 AI Agents](https://cmu-agents.com)（Graham Neubig
 | a1-c2 | 沙箱到期后 agent 空转 155 步 | 作业 1 第 35、36 页 |
 | a1-c3 | 上下文里 92% 是模型自己的推理 | 作业 1 第 37 页 |
 | a1-c4 | 给了合法着法列表，模型还是把马当兵走 | 作业 1 第 33、34 页 |
+| a2-c1 | 裁判自己说 agent 成功了，开头却答了 YES | 作业 2 第 11、12 页 |
+| a2-c2 | 弱裁判自己算错中位数，反过来怪 agent 画错 | 作业 2 第 17、31 页 |
+| a2-c3 | 三个 agent 犯了同一个错：最大的柱子跑到最底下 | 作业 2 第 21、27 页 |
+| a2-c4 | 明明画错了，却骗过检查拿了满分 | 作业 2 第 27、28 页 |
 
 ## 说明
 
