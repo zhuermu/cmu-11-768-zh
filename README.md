@@ -28,6 +28,10 @@ CMU 2026 秋季新课 [11-768 AI Agents](https://cmu-agents.com)（Graham Neubig
 | 14 | OpenHands：拆解一个开源编程 agent | [课件](./l14-openhands/) | [PDF](./l14-openhands/l14-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 作业 1 | 从零搭一个 Agent Harness：CMU 作业 1 实战 | [课件](./a1-agent-harness/) | [PDF](./a1-agent-harness/a01-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 作业 2 | 卡耐基梅隆大学Agent 作业 2：Agent 评测全记录 | [课件](./a2-dataviz-validator/) | [PDF](./a2-dataviz-validator/a02-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 15 | 编排和监控：给 agent 定流程，再看住它 | [课件](./l15-orchestration-monitoring/) | [PDF](./l15-orchestration-monitoring/l15-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 16 | agent 和未来的工作：能替人干多少活 | [课件](./l16-future-of-work/) | [PDF](./l16-future-of-work/l16-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 17 | 多 agent 交互：分工、派活和互相沟通 | [课件](./l17-multi-agent/) | [PDF](./l17-multi-agent/l17-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 18 | 人和 agent 的交互：从完成任务到一起干活 | [课件](./l18-human-agent/) | [PDF](./l18-human-agent/l18-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 
 ## 短视频切片对应的幻灯片页
 
