@@ -32,6 +32,9 @@ CMU 2026 秋季新课 [11-768 AI Agents](https://cmu-agents.com)（Graham Neubig
 | 16 | agent 和未来的工作：能替人干多少活 | [课件](./l16-future-of-work/) | [PDF](./l16-future-of-work/l16-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 17 | 多 agent 交互：分工、派活和互相沟通 | [课件](./l17-multi-agent/) | [PDF](./l17-multi-agent/l17-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 | 18 | 人和 agent 的交互：从完成任务到一起干活 | [课件](./l18-human-agent/) | [PDF](./l18-human-agent/l18-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 19 | 搜索和评判模型：多生成几个，再挑出最好的 | [课件](./l19-search-critics/) | [PDF](./l19-search-critics/l19-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 20 | 树搜索：边走边分叉，把没希望的枝剪掉 | [课件](./l20-tree-search/) | [PDF](./l20-tree-search/l20-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
+| 21 | 怎么信任你的 AI agent：从跑分到可靠 | [课件](./l21-trust-agents/) | [PDF](./l21-trust-agents/l21-幻灯片.pdf) | B 站 / 视频号 / 抖音 / 小红书：竹二木SI |
 
 ## 短视频切片对应的幻灯片页
 
